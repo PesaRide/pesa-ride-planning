@@ -13,14 +13,14 @@ The app is mainly providing the following functionalities:
 ## Microservices
 To effectively provide functionalities above, we have designed the following microservices below to enable PesaRide hailing System workflow:
 
-- Trip Gateway Service - Core service, match passenger’s demand and driver’s supply
-- Map & Route Service - Provide map service including routes, arrival time.
-- Driver Location Service - Store and retrieve drive location & availability status
-- Trip Service - Store trip information for retrieving purpose
-- Passenger Profile Service - Store passengers profile information
-- Driver Profile Service - Store driver profile information
-- Payment Service - Utility service to handle payment related functions
-- Review Service - Utility service to handle review functions
+- **Trip Gateway Service** - Core service, match passenger’s demand and driver’s supply
+- **Map & Route Service** - Provide map service including routes, arrival time.
+- **Driver Location Service** - Store and retrieve drive location & availability status
+- **Trip Service** - Store trip information for retrieving purpose
+- **Passenger Profile Service** - Store passengers profile information
+- **Driver Profile Service** - Store driver profile information
+- **Payment Service** - Utility service to handle payment related functions
+- **Review Service** - Utility service to handle review functions
 
 ## Design Consideration
 
