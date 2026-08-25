@@ -21,3 +21,16 @@ To effectively provide functionalities above, we have designed the following mic
 - Driver Profile Service - Store driver profile information
 - Payment Service - Utility service to handle payment related functions
 - Review Service - Utility service to handle review functions
+
+### Design Consideration
+
+#### Assumptions and Dependencies**
+**End-user characteristics:**
+
+**Passengers:**
+- Able to request a ride by giving their real-time location
+- Able to complete the ride with valid payment method
+
+**Drivers:**
+- Able to find a ride order by giving their real-time location
+- Able to pick up the passengers and drive them to the final destination
