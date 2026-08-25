@@ -24,7 +24,7 @@ To effectively provide functionalities above, we have designed the following mic
 
 ### Design Consideration
 
-#### Assumptions and Dependencies**
+#### Assumptions and Dependencies
 **End-user characteristics:**
 
 **Passengers:**
