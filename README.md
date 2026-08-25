@@ -1,6 +1,6 @@
 # PesaRide Planning
 ## Purpose
-The ability to match ride demands from passengers and ride supplies from drivers are the essential function of this PesaRide hailing platfrom. PesaRide App is targeting to provide ride hailing service in a 1.7M population urban city. After downloading the app, passengers can submit their ride request by sending their real-time location, and PesaRide App will match the nearby drivers within certain range of distances. With a successful match, the driver can pick up the passengers and start the route to the destination passenger request.
+At its core, the PesaRide app functions as a matching engine that connects passenger ride requests with available drivers. Designed to serve an urban area of 1.7 million residents, the platform enables passengers to request rides using their real-time location. PesaRide then pairs them with nearby drivers within a specified radius. Once a match is confirmed, the driver picks up the passenger and navigates to the requested destination.
 
 ## System Overview
 The app is mainly providing the following functionalities:
