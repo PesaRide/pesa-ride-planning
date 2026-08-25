@@ -1,6 +1,6 @@
 # PesaRide Planning
 
-### System Overview
+## System Overview
 The app is mainly providing the following functionalities:
 
 - Passengers and drivers can set up their profile while using PesaRide App.
@@ -10,7 +10,7 @@ The app is mainly providing the following functionalities:
 - Drivers can use PesaRide App to pick up passengers, complete order and get earnings on each trip.
 
 
-### Microservices
+## Microservices
 To effectively provide functionalities above, we have designed the following microservices below to enable PesaRide hailing System workflow:
 
 - Trip Gateway Service - Core service, match passenger’s demand and driver’s supply
@@ -22,10 +22,10 @@ To effectively provide functionalities above, we have designed the following mic
 - Payment Service - Utility service to handle payment related functions
 - Review Service - Utility service to handle review functions
 
-### Design Consideration
+## Design Consideration
 
-#### Assumptions and Dependencies
-**End-user characteristics:**
+### Assumptions and Dependencies
+#### End-user characteristics:
 
 - **Passengers:**
     - Able to request a ride by giving their real-time location
