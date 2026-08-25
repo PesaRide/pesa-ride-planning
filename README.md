@@ -27,10 +27,10 @@ To effectively provide functionalities above, we have designed the following mic
 #### Assumptions and Dependencies
 **End-user characteristics:**
 
-**Passengers:**
-- Able to request a ride by giving their real-time location
-- Able to complete the ride with valid payment method
+- **Passengers:**
+    - Able to request a ride by giving their real-time location
+    - Able to complete the ride with valid payment method
 
-**Drivers:**
-- Able to find a ride order by giving their real-time location
-- Able to pick up the passengers and drive them to the final destination
+- **Drivers:**
+    - Able to find a ride order by giving their real-time location
+    - Able to pick up the passengers and drive them to the final destination
