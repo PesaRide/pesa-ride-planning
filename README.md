@@ -1,4 +1,10 @@
 # PesaRide Planning
+
+## Introduction
+This repo is designed to be a reference of the PesaRide hailing platform as it describes the architecture and requirements, assumptions, and the motivations behind the chosen design. Both high-level and low-level designs are included in this repo.
+
+The challenge for the PesaRide platfrom as a whole is to satisfy the dynamic demand from passengers side and the dynamic supply from drivers side. This repo design specifications provide the guidelines to accomplish this challenge, and make the entire platfrom work in a cost effective and time efficient manner.
+
 ## Purpose
 At its core, the PesaRide app functions as a matching engine that connects passenger ride requests with available drivers. Designed to serve an urban area of 1.7 million residents, the platform enables passengers to request rides using their real-time location. PesaRide then pairs them with nearby drivers within a specified radius. Once a match is confirmed, the driver picks up the passenger and navigates to the requested destination.
 
