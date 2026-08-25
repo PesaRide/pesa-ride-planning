@@ -9,6 +9,8 @@ The app is mainly providing the following functionalities:
 - PesaRide platform can match nearby drivers and assign them to each valid trip.
 - Drivers can use PesaRide App to pick up passengers, complete order and get earnings on each trip.
 
+
+### Microservices
 To effectively provide functionalities above, we have designed the following microservices below to enable PesaRide hailing System workflow:
 
 - Trip Gateway Service - Core service, match passenger’s demand and driver’s supply
