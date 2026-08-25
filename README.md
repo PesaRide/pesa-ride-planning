@@ -1,5 +1,7 @@
 # PesaRide Planning
 
+PesaRide is a ride-hailing platform tailored for an urban population of 1+ million people, built to seamlessly connect passengers with available drivers. Passengers simply submit their real-time location through the app to find drivers within range. Upon matching, the driver picks up the rider and completes the trip to the designated location.
+
 ## Introduction
 This repo is designed to be a reference of the PesaRide hailing platform as it describes the architecture and requirements, assumptions, and the motivations behind the chosen design. Both high-level and low-level designs are included in this repo.
 
